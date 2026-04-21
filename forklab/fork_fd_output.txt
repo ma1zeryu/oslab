@@ -1,0 +1,2 @@
+[P] parent pid=852, offset_before=0
+[C] child pid=853, offset_before=36

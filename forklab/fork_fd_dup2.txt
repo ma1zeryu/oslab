@@ -1,0 +1,2 @@
+[P via fd] pid=946, offset_before=0
+[C via newfd] pid=947, offset_before=36
